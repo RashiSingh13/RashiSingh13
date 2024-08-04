@@ -1,4 +1,4 @@
-![logo]([https://github.com/RashiSingh13/WebDev/blob/main/github-header-image%20(1).png](https://github.com/RashiSingh13/WebDev/blob/main/HELLO!.png))
+![logo]([(https://github.com/RashiSingh13/WebDev/blob/main/HELLO!.png)])
 <h1 align="center">Hi 👋, I'm Rashi Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align = "right" alt = "Coding" width="400" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg">
